@@ -50,8 +50,9 @@ Using the first table, create a directed graph using networkx library, Some of t
 ### 3.1. Degree Distribution
 
 Since our network is directed we'll calculate both in and out-degree for each node, we expect to get power-law distribution in both.
-![degree distibution](![image](https://github.com/user-attachments/assets/f48faba2-b491-4893-bb2d-18caab54e7ce)
-)
+
+![degree distibution]![Screenshot 2025-04-20 220051](https://github.com/user-attachments/assets/27df5564-a5a4-4314-8689-b673be4c4b13)
+
 
 
 __Conclutions__
@@ -60,8 +61,8 @@ As expected both the in and out-degree distributions are the power-law distribut
 
 ### 3.2. Betweenness Distribution 
 
-![betweenness distibution](![image](https://github.com/user-attachments/assets/f7f12ab0-eb0a-44fb-ba1a-1c008a55b7f4)
-)
+
+![betweenness distibution]![Screenshot 2025-04-20 220114](https://github.com/user-attachments/assets/a247e7bb-6ee1-496c-a200-16edcc4dc2a4)
 
 __Conclutions__
 The edge with the highest betweenness is from _Sub category: Compression (Encryption and Compression)_ to 
