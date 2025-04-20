@@ -89,12 +89,8 @@ And it looks like this:
 
 ![new netowrk] ![Screenshot 2025-04-20 220142](https://github.com/user-attachments/assets/22837ba5-7318-4cfd-bdf7-7d94f72d264b)
 
-__Conclutions__
-As we expected, the most central sub-category between the Operating Systems sub-categories is the same sub-category that is most central is the whole network which is Distributed
+### 4.2. Finding Most Central Sub-Category
 
 
-### 5.2. Strongest Edge
-Check which sub-category relies most on another sub-category, meaning it has the highest weight on the edge.
+![Screenshot 2025-04-20 220802](https://github.com/user-attachments/assets/2a39fbc4-8d87-4462-89dc-7f5f16271446)
 
-__Conclutions__
-The edge with highest weight is Filtering IR to Retrieval IR, which means the first one relies on the second the most related to all other edges.
