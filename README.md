@@ -6,15 +6,6 @@
 
 We chose the Cora Citation Network, it is a directed network where nodes represent scientific papers, an edge between two nodes indicates that the left node cites the right node, the edges are unweighted. In addition, the papers are classified into categories and sub-categories.
 
-### 1.2. Research Question
-
-What is the most cited sub-category that all other categories depend on?
-
-Most central sub-category - one that most of its papers are cited in papers from a different sub-category.
-
-### 1.3. Approach for our research
-
-To answer the research question we're going to build a new graph where each node is a collection of articles from the same sub-category. This new graph will be directed and weighted where the weight is calculated by % of papers that have an out-degree >= 1 times % of papers that have in degree.
 
 ## 2. Building the Network
 ### 2.1. Data Cleansing
