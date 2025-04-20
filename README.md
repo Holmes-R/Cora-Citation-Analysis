@@ -52,6 +52,8 @@ Using the first table, create a directed graph using networkx library, Some of t
 Since our network is directed we'll calculate both in and out-degree for each node, we expect to get power-law distribution in both.
 ![degree distibution](![image](https://github.com/user-attachments/assets/f48faba2-b491-4893-bb2d-18caab54e7ce)
 )
+
+
 __Conclutions__
 
 As expected both the in and out-degree distributions are the power-law distribution which means small occurrences are extremely common, notice that in the number of in-degree of 0 is much higher than in out-degree which makes sense since most articles cite at least another article but there is a big number of articles that no one cited so far.
@@ -92,9 +94,8 @@ Average Clustering: 0.697772949549231
 
 And it looks like this: 
 
-![new netowrk](![image](https://github.com/user-attachments/assets/afce821f-598a-44a2-802d-ec94adf2e00a)
-)
 
+![new netowrk] ![Screenshot 2025-04-20 220142](https://github.com/user-attachments/assets/22837ba5-7318-4cfd-bdf7-7d94f72d264b)
 
 __Conclutions__
 As we expected, the most central sub-category between the Operating Systems sub-categories is the same sub-category that is most central is the whole network which is Distributed
