@@ -94,3 +94,7 @@ And it looks like this:
 
 ![Screenshot 2025-04-20 220802](https://github.com/user-attachments/assets/2a39fbc4-8d87-4462-89dc-7f5f16271446)
 
+### Power Law Graph 
+
+![Screenshot 2025-04-21 135555](https://github.com/user-attachments/assets/beaa4c31-a29a-4dfa-97ea-c65a095d28e6)
+
