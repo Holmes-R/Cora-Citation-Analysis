@@ -45,7 +45,6 @@ Since our network is directed we'll calculate both in and out-degree for each no
 ![degree distibution]![Screenshot 2025-04-20 220051](https://github.com/user-attachments/assets/27df5564-a5a4-4314-8689-b673be4c4b13)
 
 
-
 __Conclutions__
 
 As expected both the in and out-degree distributions are the power-law distribution which means small occurrences are extremely common, notice that in the number of in-degree of 0 is much higher than in out-degree which makes sense since most articles cite at least another article but there is a big number of articles that no one cited so far.
